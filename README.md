@@ -29,7 +29,7 @@ To install and run the Express API project locally, follow these steps:
 - npm start
 
 
-The API server will start running on `http://localhost:3000`.
+The API server will start running on `http://localhost:8080`.
 
 ## Usage
 
